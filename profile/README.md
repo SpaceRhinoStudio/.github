@@ -7,7 +7,12 @@ Engaland, the biggest planet in the Engaverse, uncharted and unexplored, is a wo
 Engaland Social Links:
 
 [Engaland Website](https://enga.land/)
+
 [Twitter](https://twitter.com/engaverse)
+
 [Medium](https://medium.com/@engaland)
+
 [Telegram Chat](https://t.me/engaland_en)
+
 [Telegram Announcement Channel](https://t.me/engaland_ann)
+
