@@ -1,12 +1,13 @@
 ## Hi there 👋
+We are SpaceRhino the owner and the creator of phenomenon project Engaland. We started our career as software engineers, game and back-end developers. Following you can read more about Engaland.
 
-<!--
 
-**Here are some ideas to get you started:**
+Engaland, the biggest planet in the Engaverse, uncharted and unexplored, is a world of unknowns and mysteries. For years, the five realms of the Engaverse attempted to explore and colonize the planet, but were unable to do so, until now. The recent invention of Opifex Machines and the development of specialized droids, known as Endros, has allowed the five realms to set foot on the planet without risking lives of their citizens.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Engaland Social Links:
+
+[Engaland Website](https://enga.land/)
+[Twitter](https://twitter.com/engaverse)
+[Medium](https://medium.com/@engaland)
+[Telegram Chat](https://t.me/engaland_en)
+[Telegram Announcement Channel](https://t.me/engaland_ann)
